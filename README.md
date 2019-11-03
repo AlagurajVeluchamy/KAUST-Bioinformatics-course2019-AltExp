@@ -1,3 +1,3 @@
-Analysis of Alternative Gene Expression in Arabidopsis thaliana.
+Analysis of Alternative splicing in Arabidopsis thaliana.  
 Go to commands.txt
 
